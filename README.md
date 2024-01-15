@@ -1,5 +1,10 @@
 ### Hi there 👋
-This GitHub is for showcasing programming skills, mainly in Java, SQL, HTML, CSS, and JS using Vue.js. Please feel free to message me on LinkedIn or at davidjcooney33@gmail.com if you have any questions. Thank you!
+This GitHub is for showcasing programming skills, mainly in Java, SQL, HTML, CSS, and JS using Vue.js.
+
+Please feel free to message me on LinkedIn at https://www.linkedin.com/in/davidcooneydeveloper/
+or by email at davidjcooney33@gmail.com 
+if you have any questions. 
+Thank you!
 
 <!--
 **20dcooney/20DCooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
