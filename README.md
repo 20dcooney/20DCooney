@@ -1,6 +1,8 @@
 ### Hi there 👋
 This GitHub is for showcasing programming skills, mainly in Java, SQL, HTML, CSS, and JS using Vue.js.
 
+Due to the use of API keys, some projects may be set to private
+
 Please feel free to message me on LinkedIn at https://www.linkedin.com/in/davidcooneydeveloper/
 or by email at davidjcooney33@gmail.com 
 if you have any questions. 
