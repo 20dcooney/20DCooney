@@ -1,5 +1,5 @@
 ### Hi there 👋
-This GitHub is for showcasing programming skills, mainly in Java, SQL, HTML, CSS, and JS using Vue.js.
+This GitHub is for showcasing programming skills, mainly in Java, SQL, HTML, CSS, and JS using Vue.js. <br>
 Currently learning Python and Machine Learning.
 
 Due to the use of API keys, some projects may be set to private
