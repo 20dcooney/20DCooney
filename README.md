@@ -1,7 +1,7 @@
 ### Hi there 👋
 This GitHub is for showcasing programming skills, mainly in Java, Spring Boot framework, SQL, HTML, CSS, and JS using Vue.js. <br>
 
-Currently learning Python and Machine Learning.Experimenting with React framework.
+Currently learning Python and Machine Learning. Experimenting with React framework.
 
 Due to the use of API keys, some projects may be set to private
 
